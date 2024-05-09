@@ -1,0 +1,33 @@
+{
+  "usersScreen": "Users",
+  "signInScreen": "Sign in",
+  "username": "Username",
+  "password": "Password",
+  "requiredField": "{field} is required.",
+  "@requiredField": {
+    "type": "text",
+    "description": "Required message",
+    "placeholders": {
+      "field": {}
+    }
+  },
+  "invalidUsername": "Invalid username.",
+  "passwordLength": "{num,plural, =1 {Password must be at least {num} character.} other {Password must be at least {num} characters.}}",
+  "@passwordLength": {
+    "type": "text",
+    "description": "Message about invalid password length",
+    "placeholders": {
+      "num": {}
+    }
+  },
+  "signInButton": "Sign in",
+  "signInSuccess": "Successfully signed in",
+  "wrongSignInData": "Wrong username or password",
+  "noUsersFound": "No users found",
+  "productsPage": "Products page",
+  "profile": "Profile",
+  "logout": "Log out",
+  "sessionHasEnded": "Session has ended",
+  "unknownErrorInfoException": "Unknown Error: {info}",
+  "expiredTokenException": "The session has expired"
+}

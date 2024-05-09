@@ -1,0 +1,19 @@
+{
+  "usersScreen": "Користувачі",
+  "signInScreen": "Увійти",
+  "username": "Ім'я користувача",
+  "password": "Пароль",
+  "requiredField": "{field} це обов'язкове поле.",
+  "invalidUsername": "Невірний формат Ім'я користувача.",
+  "passwordLength": "{num, plural, =1 {Пароль повинен складатися не менше ніж з {num} символів.} other {Пароль повинен складатися не менше ніж з {num} символів.}}",
+  "signInButton": "Увійти",
+  "signInSuccess":  "Ви вдало увійшли до системи",
+  "wrongSignInData":  "Неправильне ім'я користувача або пароль",
+  "noUsersFound": "Користувачів не знайдено",
+  "productsPage": "Товари",
+  "profile": "Профіль",
+  "logout": "Вийти",
+  "sessionHasEnded": "Сеанс закінчився",
+  "unknownErrorInfoException": "Невідома помилка: {info}",
+  "expiredTokenException": "Термін дії сесії закінчився"
+}
